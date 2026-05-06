@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Huy (Thanh Huy Trần)
 
-<!--
-**Tommy-Tran007/Tommy-Tran007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science student @ University of Finance - Marketing, Vietnam  
+🚀 Aspiring Data Engineer | Aiming for Australia 🇦🇺  
+💻 Currently building foundations in Python, SQL & Cloud
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- 🐍 CS50P – Harvard's Intro to Python
+- 📊 SQL via DataLemur
+- ☁️ AWS Cloud Practitioner prep
+- 📖 *Fundamentals of Data Engineering* – Joe Reis
+
+## 🎯 Roadmap 2026–2030
+- [ ] Master Python + SQL fundamentals
+- [ ] AWS Cloud Practitioner → Solutions Architect
+- [ ] Databricks Certified Data Engineer
+- [ ] PTE Academic 65+
+- [ ] Master of Data Science @ Group of Eight, Australia 🇦🇺
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📈 GitHub Stats
+![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommy-Tran007&show_icons=true&theme=default)
+
+## 📫 Connect with me
+- 💼 LinkedIn: https://www.linkedin.com/in/tranthanhhuy-de/
+- 📧 Email: tranthanhhuyufm@gmail.com
+
