@@ -1,7 +1,7 @@
 # Hi 👋 I'm Huy (Thanh Huy Trần)
 
 🎓 Data Science student @ University of Finance - Marketing, Vietnam  
-🚀 Aspiring Data Engineer | Aiming for Australia 🇦🇺  
+🚀 Aspiring Data Engineer | Aiming for Ireland
 💻 Currently building foundations in Python, SQL & Cloud
 
 ---
@@ -16,8 +16,8 @@
 - [ ] Master Python + SQL fundamentals
 - [ ] AWS Cloud Practitioner → Solutions Architect
 - [ ] Databricks Certified Data Engineer
-- [ ] PTE Academic 65+
-- [ ] Master of Data Science @ Group of Eight, Australia 🇦🇺
+- [ ] Ielts Academic 7.0+
+- [ ] Master of Data Science @ Group of Eight
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
